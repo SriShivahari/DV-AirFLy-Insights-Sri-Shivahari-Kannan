@@ -16,8 +16,8 @@ The insights aim to support stakeholders like **airline operators, airports, and
 ---
 
 ## 📂 Dataset
-- **Source:** [Kaggle Airlines Flights Data](https://www.kaggle.com/)  
-- **Size:** 60+ million flight records  
+- **Source:** [Airlines Flights Data](https://drive.google.com/file/d/1mbi3mchvvKmp_ya_V2tqPTcKLP3uUPD2/view?usp=drive_link)  
+- **Size:** 1.7+ million flight records  
 - **Coverage:** Schedules, delays, cancellations, routes, and operational metrics  
 
 ---
